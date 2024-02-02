@@ -1,7 +1,7 @@
 document.getElementById("yesButton").onclick = function() {
-    location.href = 'yes.html'
+    location.href = 'yes'
 }
 
 document.getElementById("noButton").onclick = function() {
-    location.href = 'no.html'
+    location.href = 'no'
 }
